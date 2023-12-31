@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ItsInx
-- 👀 I’m the creator of > 0x7 Protector
-- 👀 I’m interested in Reverse engineering ( Obfuscation / Deobfuscation )
+- 👋 Hi, I’m Inx
+- 👀 I’m the creator of > SecureByte Obfuscator
+- 👀 I’m interested in Reverse engineering ( Obfuscation )
 - 🌱 I’m currently learning C#
-- 📫 How to reach me on Discord : Inx#0308
+- 📫 Reach me on Discord : securebyte_admin
